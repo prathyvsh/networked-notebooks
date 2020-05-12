@@ -1,0 +1,21 @@
+* Networked Notebook
+
+** Contemporary
+
+*** [[https://tiddlywiki.com/][TiddlyWiki]]
+![[./tiddlywiki.png]]
+
+*** [[https://nodebook.io][Nodebook]]
+*** [[https://observable.hq][ObservableHQ]]
+*** [[https://roam.research][Roam]]
+*** [[Andy Matuschak's notes][https://notes.andymatuschak.org/About_these_notes]]
+*** [[https://entropymanager.com][EntropyManager]]
+
+** Prior Art
+*** Xanadu
+A philosophy more than a notebook app
+
+*** WikiWiki
+Precursor to Wikipedia / C2
+
+*** Hypercard
