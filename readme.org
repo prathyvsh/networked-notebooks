@@ -3,7 +3,7 @@
 ** Contemporary
 
 *** [[https://tiddlywiki.com/][TiddlyWiki]]
-![[./tiddlywiki.png]]
+[[./tiddlywiki.png]]
 
 *** [[https://nodebook.io][Nodebook]]
 *** [[https://observable.hq][ObservableHQ]]
