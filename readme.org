@@ -8,7 +8,7 @@
 *** [[https://nodebook.io][Nodebook]]
 *** [[https://observable.hq][ObservableHQ]]
 *** [[https://roam.research][Roam]]
-*** [[Andy Matuschak's notes][https://notes.andymatuschak.org/About_these_notes]]
+*** [[https://notes.andymatuschak.org/About_these_notes][Andy Matuschak's notes]]
 *** [[https://entropymanager.com][EntropyManager]]
 
 ** Prior Art
