@@ -80,11 +80,11 @@ Precursor to Wikipedia / C2
 Not a product per-se, but from the discussion, the prototype seems interesting. It is an attempt to create a densely connected Digital Garden. (Don’t know what a digital garden is, but has become a popular term for describing websites that incorporate multiple facets of a person’s digital space like notes, blog etc into a single thing and allows visitors to stroll through them seamlessly like a garden with densely connected graph like structure).
 
 Some examples of digital garden: 
-[Gordon Brander’s Personal Website][http://gordonbrander.com/pattern/]
-[Andy Matuschak’s Notes][https://notes.andymatuschak.com]
-[Azlen Elza’s Notes][https://notes.azlen.me/g3tibyfv/]: [Code](https://github.com/azlen/azlen.me/tree/master/notes)
-[Joel Hook’s Blog][https://joelhooks.com/]
-[Tom Critchlow’s Website][https://tomcritchlow.com/]
+[[Gordon Brander’s Personal Website][http://gordonbrander.com/pattern/]]
+[[Andy Matuschak’s Notes][https://notes.andymatuschak.com]]
+[[Azlen Elza’s Notes][https://notes.azlen.me/g3tibyfv/]]: [[Code][https://github.com/azlen/azlen.me/tree/master/notes]]
+[[Joel Hook’s Blog][https://joelhooks.com/]]
+[[Tom Critchlow’s Website][https://tomcritchlow.com/]]
 
 *** Contributions
 
