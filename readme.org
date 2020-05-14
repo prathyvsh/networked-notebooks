@@ -6,10 +6,59 @@
 [[./tiddlywiki.png]]
 
 *** [[https://nodebook.io][Nodebook]]
+
 *** [[https://observable.hq][ObservableHQ]]
+
 *** [[https://roam.research][Roam]]
+
 *** [[https://notes.andymatuschak.org/About_these_notes][Andy Matuschak's notes]]
+
 *** [[https://entropymanager.com][EntropyManager]]
+
+*** [[https://www.amplenote.com/][Amplenote]]
+[[https://images.amplenote.com/ca68f6b2-8fb6-11ea-9b04-caf4dc8d4992/6d54960f-2cea-4dd5-b5db-e8e410705d07.png]]
+*** [[https://org-roam.readthedocs.io/en/master/][Orgroam]]
+
+[[https://org-roam.readthedocs.io/en/master/images/org-roam-intro.png]]
+
+Connected graphs, backlinks, title autocompletion, networked search, etc and is in heavy development.
+
+*** [[https://github.com/andjar/dokuroam/blob/master/README.md][Dokuroam]]
+[[https://user-images.githubusercontent.com/24671386/81791111-e9f89d80-9523-11ea-89ff-63b658945189.png]]
+
+DokuWiki based implementation of Roam Research. Roam Research has rapidly gained popularity by opening up to new workflows. Has some but not all of Roam’s features, but is in active development.
+
+*** [[https://www.zettlr.com/][Zettlr]]
+[[https://docs.zettlr.com/en/img/zettlr_ide.png]]
+
+Basically a markdown editor like Typora, but has a [zettlekesten mode](https://docs.zettlr.com/en/guides/guide-zettelkasten/) for handling the connection.
+
+*** [[https://github.com/athensresearch/athens][Athens]]
+[[https://user-images.githubusercontent.com/24671386/81790871-a00fb780-9523-11ea-98e6-dec05adc5af8.png]]
+An open source implementation of Roam
+
+** [[https://knovigator.com][Knovigator]]
+
+An online application with support for branching and threading like Twitter. Optimized for curation and conversation. Under development
+
+** [[https://obsidian.md/][Obsidian]]
+
+[[https://i.imgur.com/LSZlIT9.png]]
+Similar to Zettlr, a markdown editor. But has support for zettlekesten mode. Has backlinks and Graph support.
+
+** [[https://www.remnote.io][Remnote]]
+[[https://user-images.githubusercontent.com/24671386/81788119-a9972080-951f-11ea-8fb1-d4279ed49a91.png]]
+A comprehensive tool for knowledge management. Includes Spaced Repetition, Graphs, Backlinks etc.
+
+** [[https://ikiwiki.info/][ikiWiki]]
+Basic wiki with backlinks.
+
+** [[https://nvultra.com/][nvUltra]]
+Based on the good old notational velocity. Supports Markdown, backlinks etc. Still in Beta
+Also has a previous version called nvAlt
+
+** [[https://zim-wiki.org][zim]]
+Basic wiki with backlinks. Supports pretty much all types of [linkages](https://zim-wiki.org/manual/Help/Links.html)
 
 ** Prior Art
 *** Xanadu
@@ -19,3 +68,24 @@ A philosophy more than a notebook app
 Precursor to Wikipedia / C2
 
 *** Hypercard
+
+*** [[http://fed.wiki.org/view/welcome-visitors][Ward Cunnigham's Federated Wiki]]
+
+** Up and Coming
+
+*** [[https://twitter.com/hanbzu/status/1258352174242897920?s=21][Lotu]]
+
+[[https://pbs.twimg.com/media/EXaQWrsWsAApfzK?format=jpg&name=large]]
+
+Not a product per-se, but from the discussion, the prototype seems interesting. It is an attempt to create a densely connected Digital Garden. (Don’t know what a digital garden is, but has become a popular term for describing websites that incorporate multiple facets of a person’s digital space like notes, blog etc into a single thing and allows visitors to stroll through them seamlessly like a garden with densely connected graph like structure).
+
+Some examples of digital garden: 
+[Gordon Brander’s Personal Website][http://gordonbrander.com/pattern/]
+[Andy Matuschak’s Notes][https://notes.andymatuschak.com]
+[Azlen Elza’s Notes][https://notes.azlen.me/g3tibyfv/]: [Code](https://github.com/azlen/azlen.me/tree/master/notes)
+[Joel Hook’s Blog][https://joelhooks.com/]
+[Tom Critchlow’s Website][https://tomcritchlow.com/]
+
+*** Contributions
+
+*** [[@raghuveerdotnet][Raghuveer]]
