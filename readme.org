@@ -6,10 +6,12 @@
 [[./tiddlywiki.png]]
 
 *** [[https://nodebook.io][Nodebook]]
+[[Nodebook][./nodebook.png]]
 
 *** [[https://observable.hq][ObservableHQ]]
 
 *** [[https://roam.research][Roam]]
+[[Nodebook][./roam.png]]
 
 *** [[https://notes.andymatuschak.org/About_these_notes][Andy Matuschak's notes]]
 
