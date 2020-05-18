@@ -8,7 +8,7 @@
 *** [[https://nodebook.io][Nodebook]]
 [[Nodebook][./nodebook.jpg]]
 
-*** [[https://observable.hq][ObservableHQ]]
+*** [[https://observablehq.com][ObservableHQ]]
 
 *** [[https://roam.research][Roam]]
 [[Nodebook][./roam.png]]
