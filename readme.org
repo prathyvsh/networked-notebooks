@@ -6,7 +6,7 @@
 [[./tiddlywiki.png]]
 
 *** [[https://nodebook.io][Nodebook]]
-[[Nodebook][./nodebook.png]]
+[[Nodebook][./nodebook.jpg]]
 
 *** [[https://observable.hq][ObservableHQ]]
 
