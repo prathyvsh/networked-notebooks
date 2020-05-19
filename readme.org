@@ -9,10 +9,7 @@
 [[Nodebook][./nodebook.jpg]]
 
 *** [[https://observablehq.com][ObservableHQ]]
-[[][./observable.png]]
-
-*** [[semilattice.xyz][Semilattice]]
-[[Semilattice][http://archive.is/Xc1O9/ec49748e674a37893ca6908cc86a6b0aef42d31d.png]]
+[[./observable.png]]
 
 *** [[https://roam.research][Roam]]
 [[Nodebook][./roam.png]]
@@ -91,6 +88,9 @@ Some examples of digital garden:
 [[Azlen Elza’s Notes][https://notes.azlen.me/g3tibyfv/]]: [[Code][https://github.com/azlen/azlen.me/tree/master/notes]]
 [[Joel Hook’s Blog][https://joelhooks.com/]]
 [[Tom Critchlow’s Website][https://tomcritchlow.com/]]
+
+*** [[semilattice.xyz][Semilattice]]
+[[Semilattice][http://archive.is/Xc1O9/ec49748e674a37893ca6908cc86a6b0aef42d31d.png]]
 
 *** Contributions
 
