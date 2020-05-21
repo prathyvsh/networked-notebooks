@@ -18,6 +18,8 @@ This is a collection of networked notebooks that is slowly taking shape on the I
 
 *** [[https://notes.andymatuschak.org/About_these_notes][Andy Matuschak's notes]]
 
+*** [[https://hypernote.io][Hypernote]]
+
 *** [[https://entropymanager.com][EntropyManager]]
 
 *** [[https://www.amplenote.com/][Amplenote]]
