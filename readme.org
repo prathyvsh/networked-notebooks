@@ -1,5 +1,7 @@
 * Networked Notebook Catalogue
 
+This is a collection of networked notebooks that is slowly taking shape on the Internet. Please feel free to send a PR or leave a comment if you know of any we have missed.
+
 ** Contemporary
 
 *** [[https://tiddlywiki.com/][TiddlyWiki]]
