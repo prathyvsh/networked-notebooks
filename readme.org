@@ -28,6 +28,10 @@ LambdaTank is a networked notebook with a Turing Complete language as it’s bas
 
 *** [[https://scrapbox.io/][Scrapbox]]
 
+*** [[https://foambubble.github.io/foam/][Foam]]
+
+[[Foam][./foam.png]]
+
 *** [[https://www.amplenote.com/][Amplenote]]
 [[https://images.amplenote.com/ca68f6b2-8fb6-11ea-9b04-caf4dc8d4992/6d54960f-2cea-4dd5-b5db-e8e410705d07.png]]
 *** [[https://org-roam.readthedocs.io/en/master/][Orgroam]]
