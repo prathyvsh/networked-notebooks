@@ -92,9 +92,9 @@ Precursor to Wikipedia / C2
 
 *** [[https://twitter.com/hanbzu/status/1258352174242897920?s=21][Lotu]]
 
-[[https://pbs.twimg.com/media/EXaQWrsWsAApfzK?format=jpg&name=large]]
+[[https://pbs.twimg.com/media/EXaQWrsWsAApfzK.jpg]]
 
-Not a product per-se, but from the discussion, the prototype seems interesting. It is an attempt to create a densely connected Digital Garden. (The term digital garden has become a popular term for describing websites that incorporate multiple facets of a person’s digital space like notes, blog etc into a single thing and allows visitors to stroll through them seamlessly like a garden with densely connected graph like structure. [This article](https://nesslabs.com/mind-garden) from [Anne-Laure Le Cunff](https://nesslabs.com/author/annelaure) has an excellent explanation of it).
+Not a product per-se, but from the discussion, the prototype seems interesting. It is an attempt to create a densely connected Digital Garden. (The term digital garden has become a popular term for describing websites that incorporate multiple facets of a person’s digital space like notes, blog etc into a single thing and allows visitors to stroll through them seamlessly like a garden with densely connected graph like structure. [This article](https://nesslabs.com/mind-garden) from [[https://nesslabs.com/author/annelaure][Anne-Laure Le Cunff]] has an excellent explanation of it).
 
 Some examples of digital garden: 
 [[Gordon Brander’s Personal Website][http://gordonbrander.com/pattern/]]
