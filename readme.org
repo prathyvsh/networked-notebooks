@@ -56,7 +56,12 @@ An open source implementation of Roam
 
 ** [[https://knovigator.com][Knovigator]]
 
-An online application with support for branching and threading like Twitter. Optimized for curation and conversation. Under development
+An online application with support for branching and threading like Twitter. Optimized for curation and conversation. Under development.
+
+** [[https://leoeditor.com/][Leo]]
+[[./leo.png]]
+
+Leo is a Personal Information Manager / IDE and outliner that accelerates the work flow of programmers, authors and web designers. Outline nodes may appear in more than one place, allowing multiple organizations of data within a single outline. 
 
 ** [[https://obsidian.md/][Obsidian]]
 
