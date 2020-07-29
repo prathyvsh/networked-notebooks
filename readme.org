@@ -5,13 +5,13 @@ This is a collection of networked notebooks that is slowly taking shape on the I
 ** Contemporary
 
 *** [[https://tiddlywiki.com/][TiddlyWiki]]
-[[./tiddlywiki.png]]
+[[https://tiddlywiki.com/][./tiddlywiki.png]]
 
 *** [[https://nodebook.io][Nodebook]]
-[[./nodebook.jpg]]
+[[https://nodebook.io][./nodebook.jpg]]
 
 *** [[https://observablehq.com][ObservableHQ]]
-[[./observable.png]]
+[[https://observablehq.com][./observable.png]]
 
 *** LambdaTank
 LambdaTank is a networked notebook with a Turing Complete language as it’s base.
@@ -65,7 +65,7 @@ Leo is a Personal Information Manager / IDE and outliner that accelerates the wo
 
 ** [[https://obsidian.md/][Obsidian]]
 
-[[https://i.imgur.com/LSZlIT9.png]]
+[[https://obsidian.md/][https://i.imgur.com/LSZlIT9.png]]
 Similar to Zettlr, a markdown editor. But has support for zettlekesten mode. Has backlinks and Graph support.
 
 ** [[https://www.remnote.io][Remnote]]
