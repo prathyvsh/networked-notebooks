@@ -8,7 +8,7 @@ This is a collection of networked notebooks that is slowly taking shape on the I
 [[./tiddlywiki.png]]
 
 *** [[https://nodebook.io][Nodebook]]
-[[Nodebook][./nodebook.jpg]]
+[[./nodebook.jpg]]
 
 *** [[https://observablehq.com][ObservableHQ]]
 [[./observable.png]]
@@ -18,7 +18,7 @@ LambdaTank is a networked notebook with a Turing Complete language as it’s bas
 [[./lambdatalk.png]]
 
 *** [[https://roam.research][Roam]]
-[[Nodebook][./roam.png]]
+[[https://roam.research][./roam.png]]
 
 *** [[https://notes.andymatuschak.org/About_these_notes][Andy Matuschak's notes]]
 
@@ -30,7 +30,7 @@ LambdaTank is a networked notebook with a Turing Complete language as it’s bas
 
 *** [[https://foambubble.github.io/foam/][Foam]]
 
-[[Foam][./foam.png]]
+[[https://foambubble.github.io/foam/][./foam.png]]
 
 *** [[https://www.amplenote.com/][Amplenote]]
 [[https://images.amplenote.com/ca68f6b2-8fb6-11ea-9b04-caf4dc8d4992/6d54960f-2cea-4dd5-b5db-e8e410705d07.png]]
