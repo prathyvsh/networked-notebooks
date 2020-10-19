@@ -80,7 +80,7 @@ Based on the good old notational velocity. Supports Markdown, backlinks etc. Sti
 Also has a previous version called nvAlt
 
 ** [[https://zim-wiki.org][zim]]
-Basic wiki with backlinks. Supports pretty much all types of [linkages](https://zim-wiki.org/manual/Help/Links.html)
+Basic wiki with backlinks. Supports pretty much all types of [[https://zim-wiki.org/manual/Help/Links.html][linkages]]
 
 ** [[https://neuron.zettel.page/][Neuron]]
 [[./neuron-zettelkestan.png]]
@@ -88,6 +88,7 @@ Basic wiki with backlinks. Supports pretty much all types of [linkages](https://
 A zettelkestan built in Haskell
 
 ** Prior Art
+
 *** Xanadu
 A philosophy more than a notebook app
 
@@ -119,3 +120,6 @@ Some examples of digital garden:
 *** Contributions
 
 *** [[@raghuveerdotnet][Raghuveer]]
+
+*** Other resources
+**** [[https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709][Compilation by Steve Yang and team]]
