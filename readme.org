@@ -83,6 +83,8 @@ Also has a previous version called nvAlt
 Basic wiki with backlinks. Supports pretty much all types of [linkages](https://zim-wiki.org/manual/Help/Links.html)
 
 ** [[https://neuron.zettel.page/][Neuron]]
+[[./neuron-zettelkestan.png]]
+
 A zettelkestan built in Haskell
 
 ** Prior Art
