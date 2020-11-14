@@ -75,6 +75,11 @@ A comprehensive tool for knowledge management. Includes Spaced Repetition, Graph
 ** [[https://ikiwiki.info/][ikiWiki]]
 Basic wiki with backlinks.
 
+** [[https://logseq.com][Logseq]]
+[[./img/logseq.png]]
+
+Logseq is a privacy-first, open-source platform for knowledge sharing and management.
+
 ** [[https://nvultra.com/][nvUltra]]
 Based on the good old notational velocity. Supports Markdown, backlinks etc. Still in Beta
 Also has a previous version called nvAlt
