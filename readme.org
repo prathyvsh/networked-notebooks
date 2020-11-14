@@ -76,7 +76,7 @@ A comprehensive tool for knowledge management. Includes Spaced Repetition, Graph
 Basic wiki with backlinks.
 
 ** [[https://logseq.com][Logseq]]
-[[./img/logseq.png]]
+[[./logseq.png]]
 
 Logseq is a privacy-first, open-source platform for knowledge sharing and management.
 
