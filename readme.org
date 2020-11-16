@@ -65,7 +65,7 @@ Leo is a Personal Information Manager / IDE and outliner that accelerates the wo
 
 ** [[https://obsidian.md/][Obsidian]]
 
-[[https://obsidian.md/][https://i.imgur.com/LSZlIT9.png]]
+[[https://obsidian.md/][https://obsidian.md/images/screenshot.png]]
 Similar to Zettlr, a markdown editor. But has support for zettlekesten mode. Has backlinks and Graph support.
 
 ** [[https://www.remnote.io][Remnote]]
