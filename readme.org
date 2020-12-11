@@ -5,20 +5,20 @@ This is a collection of networked notebooks that is slowly taking shape on the I
 ** Contemporary
 
 *** [[https://tiddlywiki.com/][TiddlyWiki]]
-[[https://tiddlywiki.com/][./tiddlywiki.png]]
+[[https://tiddlywiki.com/][./img/tiddlywiki.png]]
 
 *** [[https://nodebook.io][Nodebook]]
-[[https://nodebook.io][./nodebook.jpg]]
+[[https://nodebook.io][./img/nodebook.jpg]]
 
 *** [[https://observablehq.com][ObservableHQ]]
-[[https://observablehq.com][./observable.png]]
+[[https://observablehq.com][./img/observable.png]]
 
 *** LambdaTank
 LambdaTank is a networked notebook with a Turing Complete language as it’s base.
-[[./lambdatalk.png]]
+[[./img/lambdatalk.png]]
 
 *** [[https://roam.research][Roam]]
-[[https://roam.research][./roam.png]]
+[[https://roam.research][./img/roam.png]]
 
 *** [[https://hypernote.io][Hypernote]]
 
@@ -28,7 +28,7 @@ LambdaTank is a networked notebook with a Turing Complete language as it’s bas
 
 *** [[https://foambubble.github.io/foam/][Foam]]
 
-[[https://foambubble.github.io/foam/][./foam.png]]
+[[https://foambubble.github.io/foam/][./img/foam.png]]
 
 *** [[https://www.amplenote.com/][Amplenote]]
 [[https://images.amplenote.com/ca68f6b2-8fb6-11ea-9b04-caf4dc8d4992/6d54960f-2cea-4dd5-b5db-e8e410705d07.png]]
@@ -57,7 +57,7 @@ An open source implementation of Roam
 An online application with support for branching and threading like Twitter. Optimized for curation and conversation. Under development.
 
 ** [[https://leoeditor.com/][Leo]]
-[[./leo.png]]
+[[./img/leo.png]]
 
 Leo is a Personal Information Manager / IDE and outliner that accelerates the work flow of programmers, authors and web designers. Outline nodes may appear in more than one place, allowing multiple organizations of data within a single outline. 
 
@@ -65,6 +65,10 @@ Leo is a Personal Information Manager / IDE and outliner that accelerates the wo
 
 [[https://obsidian.md/][https://obsidian.md/images/screenshot.png]]
 Similar to Zettlr, a markdown editor. But has support for zettlekesten mode. Has backlinks and Graph support.
+
+** [[https://coppiceapp.com/][Coppice]]
+[[./img/coppice.png]]
+Coppice lets you cultivate your thoughts, seeing the connections between them and helping them to grow.
 
 ** [[https://www.remnote.io][Remnote]]
 [[https://user-images.githubusercontent.com/24671386/81788119-a9972080-951f-11ea-8fb1-d4279ed49a91.png]]
@@ -74,7 +78,7 @@ A comprehensive tool for knowledge management. Includes Spaced Repetition, Graph
 Basic wiki with backlinks.
 
 ** [[https://logseq.com][Logseq]]
-[[./logseq.png]]
+[[./img/logseq.png]]
 
 Logseq is a privacy-first, open-source platform for knowledge sharing and management.
 
@@ -86,7 +90,7 @@ Also has a previous version called nvAlt
 Basic wiki with backlinks. Supports pretty much all types of [[https://zim-wiki.org/manual/Help/Links.html][linkages]]
 
 ** [[https://neuron.zettel.page/][Neuron]]
-[[./neuron-zettelkestan.png]]
+[[./img/neuron-zettelkestan.png]]
 
 A zettelkestan built in Haskell
 
