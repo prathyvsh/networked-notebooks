@@ -20,8 +20,6 @@ LambdaTank is a networked notebook with a Turing Complete language as it’s bas
 *** [[https://roam.research][Roam]]
 [[https://roam.research][./roam.png]]
 
-*** [[https://notes.andymatuschak.org/About_these_notes][Andy Matuschak's notes]]
-
 *** [[https://hypernote.io][Hypernote]]
 
 *** [[https://entropymanager.com][EntropyManager]]
@@ -113,11 +111,12 @@ Precursor to Wikipedia / C2
 Not a product per-se, but from the discussion, the prototype seems interesting. It is an attempt to create a densely connected Digital Garden. (The term digital garden has become a popular term for describing websites that incorporate multiple facets of a person’s digital space like notes, blog etc into a single thing and allows visitors to stroll through them seamlessly like a garden with densely connected graph like structure. [This article](https://nesslabs.com/mind-garden) from [[https://nesslabs.com/author/annelaure][Anne-Laure Le Cunff]] has an excellent explanation of it).
 
 Some examples of digital garden: 
-[[Gordon Brander’s Personal Website][http://gordonbrander.com/pattern/]]
-[[Andy Matuschak’s Notes][https://notes.andymatuschak.com]]
-[[Azlen Elza’s Notes][https://notes.azlen.me/g3tibyfv/]]: [[Code][https://github.com/azlen/azlen.me/tree/master/notes]]
-[[Joel Hook’s Blog][https://joelhooks.com/]]
-[[Tom Critchlow’s Website][https://tomcritchlow.com/]]
+
+- [[Gordon Brander’s Personal Website][http://gordonbrander.com/pattern/]]
+- [[Andy Matuschak’s Notes][https://notes.andymatuschak.com]]
+- [[Azlen Elza’s Notes][https://notes.azlen.me/g3tibyfv/]]: [[Code][https://github.com/azlen/azlen.me/tree/master/notes]]
+- [[Joel Hook’s Blog][https://joelhooks.com/]]
+- [[Tom Critchlow’s Website][https://tomcritchlow.com/]]
 
 *** [[semilattice.xyz][Semilattice]]
 [[Semilattice][http://archive.is/Xc1O9/ec49748e674a37893ca6908cc86a6b0aef42d31d.png]]
