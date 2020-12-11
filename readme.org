@@ -67,7 +67,7 @@ Leo is a Personal Information Manager / IDE and outliner that accelerates the wo
 Similar to Zettlr, a markdown editor. But has support for zettlekesten mode. Has backlinks and Graph support.
 
 ** [[https://coppiceapp.com/][Coppice]]
-[[./img/coppice.png]]
+[[./img/coppice.jpg]]
 Coppice lets you cultivate your thoughts, seeing the connections between them and helping them to grow.
 
 ** [[https://www.remnote.io][Remnote]]
