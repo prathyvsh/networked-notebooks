@@ -116,18 +116,18 @@ Not a product per-se, but from the discussion, the prototype seems interesting. 
 
 Some examples of digital garden: 
 
-- [[Gordon Brander’s Personal Website][http://gordonbrander.com/pattern/]]
-- [[Andy Matuschak’s Notes][https://notes.andymatuschak.com]]
-- [[Azlen Elza’s Notes][https://notes.azlen.me/g3tibyfv/]]: [[Code][https://github.com/azlen/azlen.me/tree/master/notes]]
-- [[Joel Hook’s Blog][https://joelhooks.com/]]
-- [[Tom Critchlow’s Website][https://tomcritchlow.com/]]
+- [[http://gordonbrander.com/pattern/][Gordon Brander’s Personal Website]]
+- [[https://notes.andymatuschak.com][Andy Matuschak’s Notes]]
+- [[https://notes.azlen.me/g3tibyfv/][Azlen Elza’s Notes]]: [[https://github.com/azlen/azlen.me/tree/master/notes][Code]]
+- [[https://joelhooks.com/][Joel Hook’s Blog]]
+- [[https://tomcritchlow.com/][Tom Critchlow’s Website]]
 
 *** [[semilattice.xyz][Semilattice]]
 [[Semilattice][http://archive.is/Xc1O9/ec49748e674a37893ca6908cc86a6b0aef42d31d.png]]
 
 *** Contributions
 
-*** [[@raghuveerdotnet][Raghuveer]]
+*** [[https://twitter.com/raghuveerdotnet][Raghuveer]]
 
 *** Other resources
 **** [[https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709][Compilation by Steve Yang and team]]
