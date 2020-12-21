@@ -13,7 +13,7 @@ This is a collection of networked notebooks that is slowly taking shape on the I
 *** [[https://observablehq.com][ObservableHQ]]
 [[https://observablehq.com][./img/observable.png]]
 
-*** LambdaTank
+*** [[http://lambdaway.free.fr/lambdaspeech/][LambdaTank]]
 LambdaTank is a networked notebook with a Turing Complete language as it’s base.
 [[./img/lambdatalk.png]]
 
