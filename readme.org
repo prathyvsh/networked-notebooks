@@ -117,7 +117,7 @@ Not a product per-se, but from the discussion, the prototype seems interesting. 
 Some examples of digital garden: 
 
 - [[http://gordonbrander.com/pattern/][Gordon Brander’s Personal Website]]
-- [[https://notes.andymatuschak.com][Andy Matuschak’s Notes]]
+- [[https://notes.andymatuschak.org][Andy Matuschak’s Notes]]
 - [[https://notes.azlen.me/g3tibyfv/][Azlen Elza’s Notes]]: [[https://github.com/azlen/azlen.me/tree/master/notes][Code]]
 - [[https://joelhooks.com/][Joel Hook’s Blog]]
 - [[https://tomcritchlow.com/][Tom Critchlow’s Website]]
