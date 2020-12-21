@@ -32,13 +32,15 @@ LambdaTank is a networked notebook with a Turing Complete language as it’s bas
 
 *** [[https://www.amplenote.com/][Amplenote]]
 [[https://images.amplenote.com/ca68f6b2-8fb6-11ea-9b04-caf4dc8d4992/6d54960f-2cea-4dd5-b5db-e8e410705d07.png]]
-*** [[https://org-roam.readthedocs.io/en/master/][Orgroam]]
 
-[[https://org-roam.readthedocs.io/en/master/images/org-roam-intro.png]]
+*** [[https://www.orgroam.com/][Orgroam]]
 
-Connected graphs, backlinks, title autocompletion, networked search, etc and is in heavy development.
+[[./img/org-roam.png]]
+
+Connected graphs, backlinks, title autocompletion, networked search done in Emacs.
 
 *** [[https://github.com/andjar/dokuroam/blob/master/README.md][Dokuroam]]
+
 [[https://user-images.githubusercontent.com/24671386/81791111-e9f89d80-9523-11ea-89ff-63b658945189.png]]
 
 DokuWiki based implementation of Roam Research. Roam Research has rapidly gained popularity by opening up to new workflows. Has some but not all of Roam’s features, but is in active development.
