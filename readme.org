@@ -72,6 +72,10 @@ Similar to Zettlr, a markdown editor. But has support for zettlekesten mode. Has
 [[./img/coppice.jpg]]
 Coppice lets you cultivate your thoughts, seeing the connections between them and helping them to grow.
 
+** [[https://dendron.so/][Dendron]]
+[[./img/dendron.gif]]
+Dendron is an open-source, local-first, markdown-based, note-taking tool built on top of VSCode.
+
 ** [[https://www.remnote.io][Remnote]]
 [[https://user-images.githubusercontent.com/24671386/81788119-a9972080-951f-11ea-8fb1-d4279ed49a91.png]]
 A comprehensive tool for knowledge management. Includes Spaced Repetition, Graphs, Backlinks etc.
