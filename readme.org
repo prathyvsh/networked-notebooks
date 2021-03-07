@@ -48,7 +48,7 @@ DokuWiki based implementation of Roam Research. Roam Research has rapidly gained
 *** [[https://www.zettlr.com/][Zettlr]]
 [[https://docs.zettlr.com/en/img/zettlr_ide.png]]
 
-Basically a markdown editor like Typora, but has a [zettlekesten mode](https://docs.zettlr.com/en/guides/guide-zettelkasten/) for handling the connection.
+Basically a markdown editor like Typora, but has a [[zettlekesten mode][https://docs.zettlr.com/en/guides/guide-zettelkasten/]] for handling the connection.
 
 *** [[https://github.com/athensresearch/athens][Athens]]
 [[https://user-images.githubusercontent.com/24671386/81790871-a00fb780-9523-11ea-98e6-dec05adc5af8.png]]
