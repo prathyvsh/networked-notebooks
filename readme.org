@@ -69,7 +69,7 @@ Leo is a Personal Information Manager / IDE and outliner that accelerates the wo
 
 ** [[https://dragonman225.js.org/jade][Jade]]
 
-[[./jade.png]]
+[[./img/jade.png]]
 
 An infinite canvas where you can pour out ideas freely and think joyfully. Create, arrange, connect, visualize, remix, search, and re-discover your ideas in an infinite canvas.
 
