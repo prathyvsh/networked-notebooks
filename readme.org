@@ -49,6 +49,11 @@ Connected graphs, backlinks, title autocompletion, networked search done in Emac
 
 DokuWiki based implementation of Roam Research. Roam Research has rapidly gained popularity by opening up to new workflows. Has some but not all of Roam’s features, but is in active development.
 
+*** [[https://nette.io][Nette]]
+A research OS for the web
+
+[[./img/nette.png]]
+
 *** [[https://www.zettlr.com/][Zettlr]]
 [[https://docs.zettlr.com/en/img/zettlr_ide.png]]
 
